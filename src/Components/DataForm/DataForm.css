@@ -1,0 +1,47 @@
+#cart input {
+  width: 100%;
+  border: 1px solid #00a076;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+  outline: none;
+  margin-left: 10px;
+}
+table {
+  margin: auto;
+}
+.row-add {
+  background-color: #00a076;
+  color: white;
+  outline: none;
+  border: none;
+  padding: 8px 15px;
+  margin-top: 10px;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+.row-remove {
+  background-color: #00a076;
+  color: white;
+  outline: none;
+  border: none;
+  padding: 8px 15px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.total-amount-input {
+  border: none !important;
+}
+.table-header {
+  background-color: black;
+  color: white;
+}
+.table-header th {
+  padding: 10px;
+}
+.note {
+  border: 1px solid #00a076;
+  margin-right: 30px;
+  padding: 10px;
+}
